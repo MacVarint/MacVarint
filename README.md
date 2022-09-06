@@ -1,4 +1,6 @@
 ### I'm working on my newest game Code's Law.
+The background color should be `#141526` for light mode and `#141526` for dark mode.
+
 <!--
 **MacVarint/MacVarint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
